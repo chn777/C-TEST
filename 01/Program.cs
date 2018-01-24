@@ -8,6 +8,5 @@ namespace _01
         {
             Console.WriteLine("Hello World!");
         }
-
     }
 }
